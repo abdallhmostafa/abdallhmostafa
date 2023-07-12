@@ -1,21 +1,21 @@
 ![Logo](https://github.com/abdallhmostafa/abdallhmostafa/blob/main/abdallh-mostafa-elrabiey-low-resolution-logo-white-on-black-background%20(2).png)
 
 
-<h1 align="center">Hi 👋, I'm Abdallh Mostafa elRabiey</h1>
+<h1 align="center">Hi 👋, I'm Abdallh Mostafa elRabiey 🤖 </h1>
 <h3 align="center">Junior Flutter Developer From Egypt</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding">
 
 
 
 <p align="left"> <a href="https://twitter.com/@abdallhelrabie" target="blank"><img src="https://img.shields.io/twitter/follow/@abdallhelrabie?logo=twitter&style=for-the-badge" alt="@abdallhelrabie" /></a> </p>
-
+ 
 - 🔭 I’m currently working on **Store App**
 
-- 🌱 I’m currently learning **Flutter**
+- 💻 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Dart , Futter , Java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abdallh-mostafa-elrabiey/**
+- 📞 How to reach me **https://www.linkedin.com/in/abdallh-mostafa-elrabiey/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing](https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing)
 
