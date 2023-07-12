@@ -6,9 +6,10 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding">
 
 
-
+<a href="https://linkedin.com/in/abdallh mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallh mostafa" height="40" width="300" /></a>
+<!--
 <p align="left"> <a href="https://twitter.com/@abdallhelrabie" target="blank"><img src="https://img.shields.io/twitter/follow/@abdallhelrabie?logo=twitter&style=for-the-badge" alt="@abdallhelrabie" /></a> </p>
- 
+ -->
 - 🔭 I’m currently working on **Store App**
 
 - 💻 I’m currently learning **Flutter**
