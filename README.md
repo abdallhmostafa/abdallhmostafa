@@ -1,7 +1,4 @@
-
-<p align="right"> <img src="https://tenor.com/bhNGB.gif" alt="Coding" /></a> </p>
 <img align="right" width="400" src="https://tenor.com/bhNGB.gif" alt="Coding">
-
 
 
 <h1 align="center">Hi 👋, I'm Abdallh Mostafa elRabiey</h1>
