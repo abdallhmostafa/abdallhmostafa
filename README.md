@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallh Mostafa elRabiey</h1>
 <h3 align="center">Junior Flutter Developer from Egypt</h3>
 
-<img align="right" width=400 src="https://tenor.com/bhNGB.gif" alt="Coding" />
+<img align="right" width="400" src="https://tenor.com/bhNGB.gif" alt="Coding" />
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallhmostafa" alt="abdallhmostafa" /></a> </p>
