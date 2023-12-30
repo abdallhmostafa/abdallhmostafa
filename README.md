@@ -10,17 +10,17 @@
 <!--
 <p align="left"> <a href="https://twitter.com/@abdallhelrabie" target="blank"><img src="https://img.shields.io/twitter/follow/@abdallhelrabie?logo=twitter&style=for-the-badge" alt="@abdallhelrabie" /></a> </p>
  -->
-- 🔭 I’m currently working on **Store App**
+- 🔭 I’m currently working on **Advanced Flutter Projects**
 
 - 💻 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Dart , Futter , Java**
+- 💬 Ask me about **Dart, Futter, Java, and Programming **
 
 - 📞 How to reach me **https://www.linkedin.com/in/abdallh-mostafa-elrabiey/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing](https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing)
 
-- ⚡ Fun fact **I love Help Pepole :)**
+- ⚡ Fun fact **I love Help People :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/abdallh mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallh mostafa" height="30" width="40" /></a>
 
  
-<a href="https://www.facebook.com/tayson.king.9‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallh mostafa elrabiey ‏" height="30" width="40" /></a>
+<a href="https://facebook.com/tayson.king.9/‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallh mostafa elrabiey ‏" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdallh mostafa elrabiey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdallh mostafa elrabiey" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@abdallhelrabiey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abdallhelrabiey1" height="30" width="40" /></a>
 </p>
