@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdallh Mostafa elRabiey 🤖 </h1>
-<h3 align="center">Junior Flutter Developer 👨‍💻 From Egypt</h3>
+<h3 align="center">Flutter Developer 👨‍💻 From Egypt</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding">
 
 
@@ -14,11 +14,11 @@
 
 - 💻 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Dart, Futter, Java, and Programming **
+- 💬 Ask me about **Dart, Flutter, C++, Problem Solving, and DS **
 
 - 📞 How to reach me **https://www.linkedin.com/in/abdallh-mostafa-elrabiey/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing](https://drive.google.com/file/d/1-O8UCvgtYF40vyty1NJ0yFujI_8cKV-c/view?usp=sharing)
+- 📄 Know about my experiences (https://abdallh-mostafa-portfolio.web.app)
 
 - ⚡ Fun fact **I love Help People :)**
 
