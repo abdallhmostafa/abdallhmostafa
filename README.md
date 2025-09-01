@@ -12,13 +12,13 @@
  -->
 - 🔭 I’m currently working on **Advanced Flutter Projects**
 
-- 💻 I’m currently learning **Flutter**
+- 💻 I’m currently learning **Advanced Flutter Topics and AI trends**
 
-- 💬 Ask me about **Dart, Flutter, C++, Problem Solving, and DS **
+- 💬 Ask me about **Dart, Flutter, C++, Problem Solving, and DS**
 
-- 📞 How to reach me **https://www.linkedin.com/in/abdallh-mostafa-elrabiey/**
+- 📞 How to reach me **abdallhelrabiey255@gmail.com**
 
-- 📄 Know about my experiences (https://abdallh-mostafa-portfolio.web.app)
+- 📄 Know about my experiences [**Portfolio**](https://abdallh-mostafa-portfolio.web.app)
 
 - ⚡ Fun fact **I love Help People :)**
 
