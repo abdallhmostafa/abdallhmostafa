@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdallhmostafa&theme=dark" height="200" alt="GitHub streak" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Abdallh Mostafa</h1>
 <h3 align="center">Mid-level Flutter Developer | Building production mobile apps with Flutter & Dart</h3>
 
@@ -60,8 +58,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallhmostafa&theme=github_dark" height="160" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallhmostafa&theme=github_dark" height="160" alt="Most commit language" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdallhmostafa" alt="GitHub streak" />
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdallhmostafa&theme=dark" height="200" alt="GitHub streak" />
 </p>
 
 ---
